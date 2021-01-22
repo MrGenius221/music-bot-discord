@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
-<p align="center">Thanks for 4k Views! I made this for you all!</p>
-<div align="center"><img src="./assets/banner.gif"></div>
+<p align="center">Thanks for<a href="https://github.com/SudhanPlayz">SHUDAN !</a></p>
+
 
 ## 📝 Tutorial
 Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](www.youtube.com/c/IrfanFebrianSyahputra13)
